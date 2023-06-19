@@ -1,0 +1,23 @@
+   .avatar{
+	   width: 30%;
+	   height: 30%;
+	   border-radius: 1px solid black;
+   }
+   
+	   
+   body {
+      font-family: sans-serif;
+	  background-image : ("pic.jpg");
+	  background-repeat;
+	  background-position: cover;
+    }
+
+    a:hover {
+      color: red;
+    }
+
+    span {
+      color: red;
+      font-weight: bold;
+    }
+	
